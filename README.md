@@ -1,4 +1,4 @@
-# Prediction-of-the-FIFA-World-Cup-2022-games-using-neural-network-
+# Prediction-of-the-FIFA-World-Cup-2022-games-using-neural-network
 
 
 this repository also contains code to predict the outcomes of all FIFA World Cup 2022 games using the neural network. The predictions are based on various factors such as team performance in the past, player statistics, and more.
